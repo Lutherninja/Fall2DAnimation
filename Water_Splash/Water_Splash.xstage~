@@ -58,6 +58,7 @@
   <element id="2" elementName="Background" elementFolder="Background" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
+    <dwg name="1_1"/>
    </drawings>
   </element>
   <element id="3" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
