@@ -34,7 +34,6 @@
     <dwg name="1_2"/>
     <dwg name="17"/>
     <dwg name="19"/>
-    <dwg name="21"/>
    </drawings>
   </element>
   <element id="3" elementName="Outline" elementFolder="Outline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -86,7 +85,6 @@
      <elementSeq exposures="15-16" val="15" id="2"/>
      <elementSeq exposures="17-18" val="17" id="2"/>
      <elementSeq exposures="19-20" val="19" id="2"/>
-     <elementSeq exposures="21" val="21" id="2"/>
     </column>
     <column type="0" name="Outline" displayOrder="4" width="100" anonymous="true" id="3">
      <elementSeq exposures="1" val="1" id="3"/>

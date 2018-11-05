@@ -59,6 +59,7 @@
    <drawings>
     <dwg name="1"/>
     <dwg name="1_1"/>
+    <dwg name="1_2"/>
    </drawings>
   </element>
   <element id="3" elementName="Rough" elementFolder="Rough" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -121,7 +122,9 @@
      <elementSeq exposures="35" val="34" id="1"/>
      <elementSeq exposures="36" val="35" id="1"/>
     </column>
-    <column type="0" name="Background" displayOrder="2" width="100" anonymous="true" id="2"/>
+    <column type="0" name="Background" displayOrder="2" width="100" anonymous="true" id="2">
+     <elementSeq exposures="1-38,39-40" val="1_2" id="2"/>
+    </column>
     <column type="0" name="Rough" displayOrder="3" width="100" anonymous="true" id="3"/>
    </columns>
    <options>
