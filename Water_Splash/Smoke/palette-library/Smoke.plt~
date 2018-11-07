@@ -9,3 +9,4 @@ Solid    SMoke                      0x09577800a2303d8a 137 139 144 255
 Solid    Trees                      0x09577800a23bc13d 176 202  65 255
 Solid    TreeShade                  0x09577800a23c58c5 160 155  37 255
 Solid    "Tree Light"               0x09577800a23e51e4 207 185   1 255
+Solid    SmokeShade                 0x0957fc627c606b6d 137 139 144 255
