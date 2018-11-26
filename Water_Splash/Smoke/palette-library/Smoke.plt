@@ -11,3 +11,5 @@ Solid    TreeShade                  0x09577800a23c58c5 133 153  16 255
 Solid    "Tree Light"               0x09577800a23e51e4 207 185   1 255
 Solid    SmokeShade                 0x0957fc627c606b6d 137 139 144 255
 Solid    "Tree Trunk"               0x0959c14cc3cbce5b 246 240 194 255
+Solid    "Smoke Fill"               0x095eda014ea2c025 191 205 210 255
+Solid    "New 1"                    0x095eda014ea47a09 202 244 236 255
