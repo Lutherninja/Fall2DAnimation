@@ -14,6 +14,12 @@
     <dwg name="13"/>
     <dwg name="14"/>
     <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
    </drawings>
   </element>
   <element id="2" elementName="Background" elementFolder="Background" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -32,6 +38,9 @@
     <dwg name="12"/>
     <dwg name="13"/>
     <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
    </drawings>
   </element>
   <element id="5" elementName="Environment" elementFolder="Environment" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -71,13 +80,18 @@
      <elementSeq exposures="13" val="13" id="1"/>
      <elementSeq exposures="14" val="14" id="1"/>
      <elementSeq exposures="15" val="15" id="1"/>
-     <elementSeq exposures="19" val="3" id="1"/>
+     <elementSeq exposures="16" val="16" id="1"/>
+     <elementSeq exposures="17" val="17" id="1"/>
+     <elementSeq exposures="18" val="18" id="1"/>
+     <elementSeq exposures="19" val="19" id="1"/>
+     <elementSeq exposures="20" val="20" id="1"/>
+     <elementSeq exposures="21" val="21" id="1"/>
     </column>
     <column type="0" name="Background" displayOrder="5" width="100" anonymous="true" id="2">
      <elementSeq exposures="1-9,10-60" val="1" id="2"/>
     </column>
     <column type="0" name="Rough" displayOrder="2" width="100" anonymous="true" id="4">
-     <elementSeq exposures="1,19" val="1" id="4"/>
+     <elementSeq exposures="1" val="1" id="4"/>
      <elementSeq exposures="2" val="2" id="4"/>
      <elementSeq exposures="3" val="3" id="4"/>
      <elementSeq exposures="4" val="4" id="4"/>
@@ -86,6 +100,9 @@
      <elementSeq exposures="13" val="12" id="4"/>
      <elementSeq exposures="14" val="13" id="4"/>
      <elementSeq exposures="15" val="14" id="4"/>
+     <elementSeq exposures="16" val="15" id="4"/>
+     <elementSeq exposures="17" val="16" id="4"/>
+     <elementSeq exposures="18" val="17" id="4"/>
     </column>
     <column type="0" name="Environment" displayOrder="3" width="100" anonymous="true" id="5">
      <elementSeq exposures="1-9,10-60" val="1" id="5"/>
