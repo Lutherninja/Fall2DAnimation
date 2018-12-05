@@ -25,6 +25,11 @@
   <Drawing Key="" Name="26" Version="1"/>
   <Drawing Key="" Name="27" Version="1"/>
   <Drawing Key="" Name="28" Version="1"/>
+  <Drawing Key="" Name="29" Version="1"/>
+  <Drawing Key="" Name="30" Version="1"/>
+  <Drawing Key="" Name="31" Version="1"/>
+  <Drawing Key="" Name="32" Version="1"/>
+  <Drawing Key="" Name="33" Version="1"/>
  </Element>
  <Element Name="Background" ID="2" Folder="Background">
   <Drawing Key="" Name="1" Version="1"/>
@@ -42,6 +47,7 @@
   <Drawing Key="" Name="15" Version="1"/>
   <Drawing Key="" Name="16" Version="1"/>
   <Drawing Key="" Name="17" Version="1"/>
+  <Drawing Key="" Name="18" Version="1"/>
  </Element>
  <Element Name="Environment" ID="5" Folder="Environment">
   <Drawing Key="" Name="1" Version="1"/>
@@ -59,5 +65,6 @@
   <Drawing Key="" Name="10" Version="1"/>
   <Drawing Key="" Name="11" Version="1"/>
   <Drawing Key="" Name="12" Version="1"/>
+  <Drawing Key="" Name="13" Version="1"/>
  </Element>
 </SceneVersion>
